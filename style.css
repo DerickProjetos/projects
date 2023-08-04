@@ -1,0 +1,36 @@
+
+*{
+    font-family: sans-serif;
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    text-decoration: none;
+    color: antiquewhite;
+}
+body{
+    display: block;
+    background: #313131;
+    font-size: 100%;
+}
+section{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    gap: 2%;
+    background: rgb(202, 173, 173);
+
+}
+img{
+    width: 150%;
+    height: 150%;
+}
+div{
+    text-align: center;
+    background: #252525;
+    margin: 5.9%;
+    padding:5% 2%;
+   
+}
+div *{
+   padding: 1% 0%;
+}
